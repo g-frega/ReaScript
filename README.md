@@ -39,7 +39,7 @@ Install ReaImGui through ReaPack before launching either graphical package.
 - `gf_MorphMatrix/` — Track-FX Morph Matrix and its internal modules.
 - `gf_Scatter-Instrument/` — Scatter Instrument and its internal data files/assets.
 
-The index uses ReaPack's supported `../../gf_scripts/...` destination paths. ReaPack resolves script package paths relative to `Scripts/<repository>/<category>`, so this intentionally installs into the default `Scripts/gf_scripts/` folder.
+The index is named `gf_scripts` and uses direct `../...` destination paths. ReaPack resolves script package paths relative to `Scripts/gf_scripts/<category>`, so packages install directly into `Scripts/gf_scripts/` without creating a `ReaScript` subfolder.
 
 ## Release workflow
 
@@ -50,7 +50,7 @@ The index uses ReaPack's supported `../../gf_scripts/...` destination paths. Rea
 5. Commit and push from this directory.
 6. Keep the raw `index.xml` URL stable; ReaPack will discover later versions after synchronization.
 
-Version `1.0.2` (or `1.1.2` for the marker utility) is the single-source migration release. It moves the Git repository root from the former staging layout into this source directory; no script behavior changes are intended.
+Version `1.0.3` (or `1.1.3` for the marker utility) is the direct-install migration release. It keeps packages in `Scripts/gf_scripts/` without creating a `ReaScript` subfolder; no script behavior changes are intended.
 
 ## License
 

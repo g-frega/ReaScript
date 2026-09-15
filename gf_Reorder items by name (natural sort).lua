@@ -1,5 +1,5 @@
 -- @description Reorder items by name (natural sort)
--- @version 1.0.2
+-- @version 1.0.3
 -- @author gf
 -- @about
 --   Reorders selected items in-place by active take name using natural sort.

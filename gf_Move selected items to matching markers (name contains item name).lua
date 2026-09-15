@@ -1,5 +1,5 @@
 -- @description Move selected items to matching markers (name contains item name)
--- @version 1.0.2
+-- @version 1.0.3
 -- @author gf
 -- @about
 --   For each selected item, finds project markers whose name contains the item name

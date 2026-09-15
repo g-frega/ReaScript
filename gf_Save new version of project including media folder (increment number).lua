@@ -1,5 +1,5 @@
 -- @description Save an incremented project copy and duplicate its audio folder
--- @version 1.0.2
+-- @version 1.0.3
 -- @author Giacomo Frega
 -- @about
 --   Saves a numbered project copy and copies its matching audio folder.

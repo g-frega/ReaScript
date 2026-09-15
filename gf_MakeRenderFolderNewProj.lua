@@ -1,5 +1,5 @@
 -- @description Create a Renders folder beside the current project
--- @version 1.0.2
+-- @version 1.0.3
 -- @author Giacomo Frega
 -- @about
 --   Creates a Renders directory next to the currently saved project.
