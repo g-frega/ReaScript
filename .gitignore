@@ -17,3 +17,11 @@ Thumbs.db
 *.log
 *.tmp
 *.temp
+
+# Local development and third-party-derived files
+gf_MCP_Bridge.lua
+gf_ExplodeSubproject_X-Raym.lua
+gf_RemoveSilenceSelectedItems(-40db).lua
+gf_Rename selected tracks with counter for child tracks and uppercase for parent tracks.lua
+gf_MorphMatrix/Tests/
+gf_MorphMatrix/User Presets/
