@@ -25,3 +25,45 @@ gf_RemoveSilenceSelectedItems(-40db).lua
 gf_Rename selected tracks with counter for child tracks and uppercase for parent tracks.lua
 gf_MorphMatrix/Tests/
 gf_MorphMatrix/User Presets/
+
+# AI assistants, agent configuration, and generated context
+.ai/
+**/.ai/
+*.ai
+.aider*
+.claude/
+**/.claude/
+.codex/
+**/.codex/
+.continue/
+**/.continue/
+.cursor/
+**/.cursor/
+.gemini/
+**/.gemini/
+.github/
+**/.github/
+.mcp/
+**/.mcp/
+.windsurf/
+**/.windsurf/
+AGENTS.md
+**/AGENTS.md
+CLAUDE.md
+**/CLAUDE.md
+GEMINI.md
+**/GEMINI.md
+copilot-instructions.md
+**/copilot-instructions.md
+*.instructions.md
+**/*.instructions.md
+*.prompt.md
+**/*.prompt.md
+*.session
+**/*.session
+*.chat
+**/*.chat
+MCP/
+**/MCP/
+gf_MCP_Bridge.lua
+**/gf_MCP_Bridge.lua
