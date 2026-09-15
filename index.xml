@@ -4,7 +4,7 @@
     <reapack name="gf_move edit cursor by 0.1 seconds.lua" type="script" desc="Move the edit cursor backward by 0.1 seconds">
       <version name="1.0.1" author="Giacomo Frega" time="2026-09-15T00:00:00Z">
         <changelog><![CDATA[Install under Scripts/gf_scripts instead of the repository/category folder.]]></changelog>
-        <source main="main" file="../../gf_scripts/gf_move edit cursor by 0.1 seconds.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e/gf_scripts/gf_move%20edit%20cursor%20by%200.1%20seconds.lua</source>
+        <source main="main" file="../../gf_scripts/gf_move edit cursor by 0.1 seconds.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e464b54dcc6c246d2a094e41920878502f/gf_scripts/gf_move%20edit%20cursor%20by%200.1%20seconds.lua</source>
       </version>
     </reapack>
   </category>
@@ -12,7 +12,7 @@
     <reapack name="gf_import files in numerical order.lua" type="script" desc="Import files into tracks grouped by their four-digit filename prefix">
       <version name="1.0.1" author="Giacomo Frega" time="2026-09-15T00:00:00Z">
         <changelog><![CDATA[Install under Scripts/gf_scripts instead of the repository/category folder.]]></changelog>
-        <source main="main" file="../../gf_scripts/gf_import files in numerical order.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e/gf_scripts/gf_import%20files%20in%20numerical%20order.lua</source>
+        <source main="main" file="../../gf_scripts/gf_import files in numerical order.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e464b54dcc6c246d2a094e41920878502f/gf_scripts/gf_import%20files%20in%20numerical%20order.lua</source>
       </version>
     </reapack>
   </category>
@@ -20,13 +20,13 @@
     <reapack name="gf_Move selected items to matching markers (name contains item name).lua" type="script" desc="Move selected items to the nearest marker whose name contains the item name">
       <version name="1.0.1" author="gf" time="2026-09-15T00:00:00Z">
         <changelog><![CDATA[Install under Scripts/gf_scripts instead of the repository/category folder.]]></changelog>
-        <source main="main" file="../../gf_scripts/gf_Move selected items to matching markers (name contains item name).lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e/gf_scripts/gf_Move%20selected%20items%20to%20matching%20markers%20%28name%20contains%20item%20name%29.lua</source>
+        <source main="main" file="../../gf_scripts/gf_Move selected items to matching markers (name contains item name).lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e464b54dcc6c246d2a094e41920878502f/gf_scripts/gf_Move%20selected%20items%20to%20matching%20markers%20%28name%20contains%20item%20name%29.lua</source>
       </version>
     </reapack>
     <reapack name="gf_Reorder items by name (natural sort).lua" type="script" desc="Reorder selected items by active take name using natural sorting">
       <version name="1.0.1" author="gf" time="2026-09-15T00:00:00Z">
         <changelog><![CDATA[Install under Scripts/gf_scripts instead of the repository/category folder.]]></changelog>
-        <source main="main" file="../../gf_scripts/gf_Reorder items by name (natural sort).lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e/gf_scripts/gf_Reorder%20items%20by%20name%20%28natural%20sort%29.lua</source>
+        <source main="main" file="../../gf_scripts/gf_Reorder items by name (natural sort).lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e464b54dcc6c246d2a094e41920878502f/gf_scripts/gf_Reorder%20items%20by%20name%20%28natural%20sort%29.lua</source>
       </version>
     </reapack>
   </category>
@@ -34,13 +34,13 @@
     <reapack name="gf_Delete markers containing prompt string.lua" type="script" desc="Find and optionally delete markers or regions by name with filter options">
       <version name="1.1.1" author="gf" time="2026-09-15T00:00:00Z">
         <changelog><![CDATA[Install under Scripts/gf_scripts instead of the repository/category folder.]]></changelog>
-        <source main="main" file="../../gf_scripts/gf_Delete markers containing prompt string.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e/gf_scripts/gf_Delete%20markers%20containing%20prompt%20string.lua</source>
+        <source main="main" file="../../gf_scripts/gf_Delete markers containing prompt string.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e464b54dcc6c246d2a094e41920878502f/gf_scripts/gf_Delete%20markers%20containing%20prompt%20string.lua</source>
       </version>
     </reapack>
     <reapack name="gf_Move_Markers_To_Next_Transient.lua" type="script" desc="Move project markers to the next detected transient in a selected item">
       <version name="1.0.1" author="Giacomo Frega" time="2026-09-15T00:00:00Z">
         <changelog><![CDATA[Install under Scripts/gf_scripts instead of the repository/category folder.]]></changelog>
-        <source main="main" file="../../gf_scripts/gf_Move_Markers_To_Next_Transient.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e/gf_scripts/gf_Move_Markers_To_Next_Transient.lua</source>
+        <source main="main" file="../../gf_scripts/gf_Move_Markers_To_Next_Transient.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e464b54dcc6c246d2a094e41920878502f/gf_scripts/gf_Move_Markers_To_Next_Transient.lua</source>
       </version>
     </reapack>
   </category>
@@ -48,13 +48,13 @@
     <reapack name="gf_MakeRenderFolderNewProj.lua" type="script" desc="Create a Renders folder beside the current project">
       <version name="1.0.1" author="Giacomo Frega" time="2026-09-15T00:00:00Z">
         <changelog><![CDATA[Install under Scripts/gf_scripts instead of the repository/category folder.]]></changelog>
-        <source main="main" file="../../gf_scripts/gf_MakeRenderFolderNewProj.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e/gf_scripts/gf_MakeRenderFolderNewProj.lua</source>
+        <source main="main" file="../../gf_scripts/gf_MakeRenderFolderNewProj.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e464b54dcc6c246d2a094e41920878502f/gf_scripts/gf_MakeRenderFolderNewProj.lua</source>
       </version>
     </reapack>
     <reapack name="gf_Save new version of project including media folder (increment number).lua" type="script" desc="Save an incremented project copy and duplicate its audio folder">
       <version name="1.0.1" author="Giacomo Frega" time="2026-09-15T00:00:00Z">
         <changelog><![CDATA[Install under Scripts/gf_scripts instead of the repository/category folder.]]></changelog>
-        <source main="main" file="../../gf_scripts/gf_Save new version of project including media folder (increment number).lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e/gf_scripts/gf_Save%20new%20version%20of%20project%20including%20media%20folder%20%28increment%20number%29.lua</source>
+        <source main="main" file="../../gf_scripts/gf_Save new version of project including media folder (increment number).lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e464b54dcc6c246d2a094e41920878502f/gf_scripts/gf_Save%20new%20version%20of%20project%20including%20media%20folder%20%28increment%20number%29.lua</source>
       </version>
     </reapack>
   </category>
@@ -62,7 +62,7 @@
     <reapack name="gf_Safe Script Template.lua" type="script" desc="Starter template for safe REAPER Lua scripts">
       <version name="1.0.1" author="Giacomo Frega" time="2026-09-15T00:00:00Z">
         <changelog><![CDATA[Install under Scripts/gf_scripts instead of the repository/category folder.]]></changelog>
-        <source main="main" file="../../gf_scripts/gf_Safe Script Template.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e/gf_scripts/gf_Safe%20Script%20Template.lua</source>
+        <source main="main" file="../../gf_scripts/gf_Safe Script Template.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e464b54dcc6c246d2a094e41920878502f/gf_scripts/gf_Safe%20Script%20Template.lua</source>
       </version>
     </reapack>
   </category>
@@ -70,13 +70,13 @@
     <reapack name="gf_Toggle Mute Selected Tracks or Items.lua" type="script" desc="Toggle mute for selected items, or selected tracks when no items are selected">
       <version name="1.0.1" author="Giacomo Frega" time="2026-09-15T00:00:00Z">
         <changelog><![CDATA[Install under Scripts/gf_scripts instead of the repository/category folder.]]></changelog>
-        <source main="main" file="../../gf_scripts/gf_Toggle Mute Selected Tracks or Items.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e/gf_scripts/gf_Toggle%20Mute%20Selected%20Tracks%20or%20Items.lua</source>
+        <source main="main" file="../../gf_scripts/gf_Toggle Mute Selected Tracks or Items.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e464b54dcc6c246d2a094e41920878502f/gf_scripts/gf_Toggle%20Mute%20Selected%20Tracks%20or%20Items.lua</source>
       </version>
     </reapack>
     <reapack name="gf_ToggleCollapseMuteChildren.lua" type="script" desc="Toggle a parent track's collapse state and mute its child tracks">
       <version name="1.0.1" author="Giacomo Frega" time="2026-09-15T00:00:00Z">
         <changelog><![CDATA[Install under Scripts/gf_scripts instead of the repository/category folder.]]></changelog>
-        <source main="main" file="../../gf_scripts/gf_ToggleCollapseMuteChildren.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e/gf_scripts/gf_ToggleCollapseMuteChildren.lua</source>
+        <source main="main" file="../../gf_scripts/gf_ToggleCollapseMuteChildren.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e464b54dcc6c246d2a094e41920878502f/gf_scripts/gf_ToggleCollapseMuteChildren.lua</source>
       </version>
     </reapack>
   </category>
@@ -87,17 +87,17 @@
       </metadata>
       <version name="1.0.1" author="gf" time="2026-09-15T00:00:00Z">
         <changelog><![CDATA[Install under Scripts/gf_scripts instead of the repository/category folder.]]></changelog>
-        <source main="main" file="../../gf_scripts/gf_Scatter-Instrument/gf_Scatter-Instrument.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e/gf_scripts/gf_Scatter-Instrument/gf_Scatter-Instrument.lua</source>
-        <source file="../../gf_scripts/gf_Scatter-Instrument/Data/si-engine.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e/gf_scripts/gf_Scatter-Instrument/Data/si-engine.lua</source>
-        <source file="../../gf_scripts/gf_Scatter-Instrument/Data/si-gui.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e/gf_scripts/gf_Scatter-Instrument/Data/si-gui.lua</source>
-        <source file="../../gf_scripts/gf_Scatter-Instrument/Data/si-main.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e/gf_scripts/gf_Scatter-Instrument/Data/si-main.lua</source>
-        <source file="../../gf_scripts/gf_Scatter-Instrument/Data/si-monitor.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e/gf_scripts/gf_Scatter-Instrument/Data/si-monitor.lua</source>
-        <source file="../../gf_scripts/gf_Scatter-Instrument/Data/si-picker.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e/gf_scripts/gf_Scatter-Instrument/Data/si-picker.lua</source>
-        <source file="../../gf_scripts/gf_Scatter-Instrument/Data/si-tags.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e/gf_scripts/gf_Scatter-Instrument/Data/si-tags.lua</source>
-        <source file="../../gf_scripts/gf_Scatter-Instrument/Data/si-tracks.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e/gf_scripts/gf_Scatter-Instrument/Data/si-tracks.lua</source>
-        <source file="../../gf_scripts/gf_Scatter-Instrument/Data/si-utils.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e/gf_scripts/gf_Scatter-Instrument/Data/si-utils.lua</source>
-        <source file="../../gf_scripts/gf_Scatter-Instrument/Images/si-bg-scattermode.png">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e/gf_scripts/gf_Scatter-Instrument/Images/si-bg-scattermode.png</source>
-        <source file="../../gf_scripts/gf_Scatter-Instrument/Images/si-bg-singlemode.png">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e/gf_scripts/gf_Scatter-Instrument/Images/si-bg-singlemode.png</source>
+        <source main="main" file="../../gf_scripts/gf_Scatter-Instrument/gf_Scatter-Instrument.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e464b54dcc6c246d2a094e41920878502f/gf_scripts/gf_Scatter-Instrument/gf_Scatter-Instrument.lua</source>
+        <source file="../../gf_scripts/gf_Scatter-Instrument/Data/si-engine.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e464b54dcc6c246d2a094e41920878502f/gf_scripts/gf_Scatter-Instrument/Data/si-engine.lua</source>
+        <source file="../../gf_scripts/gf_Scatter-Instrument/Data/si-gui.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e464b54dcc6c246d2a094e41920878502f/gf_scripts/gf_Scatter-Instrument/Data/si-gui.lua</source>
+        <source file="../../gf_scripts/gf_Scatter-Instrument/Data/si-main.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e464b54dcc6c246d2a094e41920878502f/gf_scripts/gf_Scatter-Instrument/Data/si-main.lua</source>
+        <source file="../../gf_scripts/gf_Scatter-Instrument/Data/si-monitor.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e464b54dcc6c246d2a094e41920878502f/gf_scripts/gf_Scatter-Instrument/Data/si-monitor.lua</source>
+        <source file="../../gf_scripts/gf_Scatter-Instrument/Data/si-picker.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e464b54dcc6c246d2a094e41920878502f/gf_scripts/gf_Scatter-Instrument/Data/si-picker.lua</source>
+        <source file="../../gf_scripts/gf_Scatter-Instrument/Data/si-tags.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e464b54dcc6c246d2a094e41920878502f/gf_scripts/gf_Scatter-Instrument/Data/si-tags.lua</source>
+        <source file="../../gf_scripts/gf_Scatter-Instrument/Data/si-tracks.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e464b54dcc6c246d2a094e41920878502f/gf_scripts/gf_Scatter-Instrument/Data/si-tracks.lua</source>
+        <source file="../../gf_scripts/gf_Scatter-Instrument/Data/si-utils.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e464b54dcc6c246d2a094e41920878502f/gf_scripts/gf_Scatter-Instrument/Data/si-utils.lua</source>
+        <source file="../../gf_scripts/gf_Scatter-Instrument/Images/si-bg-scattermode.png">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e464b54dcc6c246d2a094e41920878502f/gf_scripts/gf_Scatter-Instrument/Images/si-bg-scattermode.png</source>
+        <source file="../../gf_scripts/gf_Scatter-Instrument/Images/si-bg-singlemode.png">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e464b54dcc6c246d2a094e41920878502f/gf_scripts/gf_Scatter-Instrument/Images/si-bg-singlemode.png</source>
       </version>
     </reapack>
   </category>
@@ -108,18 +108,18 @@
       </metadata>
       <version name="1.0.1" author="Giacomo Frega" time="2026-09-15T00:00:00Z">
         <changelog><![CDATA[Install under Scripts/gf_scripts instead of the repository/category folder.]]></changelog>
-        <source main="main" file="../../gf_scripts/gf_MorphMatrix/gf_MorphMatrix-TrackFX.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e/gf_scripts/gf_MorphMatrix/gf_MorphMatrix-TrackFX.lua</source>
-        <source file="../../gf_scripts/gf_MorphMatrix/Adapters/TrackFXAdapter.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e/gf_scripts/gf_MorphMatrix/Adapters/TrackFXAdapter.lua</source>
-        <source file="../../gf_scripts/gf_MorphMatrix/Core/TrackFXJsonCodec.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e/gf_scripts/gf_MorphMatrix/Core/TrackFXJsonCodec.lua</source>
-        <source file="../../gf_scripts/gf_MorphMatrix/Core/TrackFXMatrixController.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e/gf_scripts/gf_MorphMatrix/Core/TrackFXMatrixController.lua</source>
-        <source file="../../gf_scripts/gf_MorphMatrix/Core/TrackFXMatrixEngine.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e/gf_scripts/gf_MorphMatrix/Core/TrackFXMatrixEngine.lua</source>
-        <source file="../../gf_scripts/gf_MorphMatrix/Core/TrackFXMatrixPreset.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e/gf_scripts/gf_MorphMatrix/Core/TrackFXMatrixPreset.lua</source>
-        <source file="../../gf_scripts/gf_MorphMatrix/Core/TrackFXMatrixRuntime.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e/gf_scripts/gf_MorphMatrix/Core/TrackFXMatrixRuntime.lua</source>
-        <source file="../../gf_scripts/gf_MorphMatrix/Core/TrackFXMatrixSnapshot.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e/gf_scripts/gf_MorphMatrix/Core/TrackFXMatrixSnapshot.lua</source>
-        <source file="../../gf_scripts/gf_MorphMatrix/Core/TrackFXPluginIdentity.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e/gf_scripts/gf_MorphMatrix/Core/TrackFXPluginIdentity.lua</source>
-        <source file="../../gf_scripts/gf_MorphMatrix/Persistence/TrackFXPresetFile.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e/gf_scripts/gf_MorphMatrix/Persistence/TrackFXPresetFile.lua</source>
-        <source file="../../gf_scripts/gf_MorphMatrix/Persistence/TrackFXProjectStore.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e/gf_scripts/gf_MorphMatrix/Persistence/TrackFXProjectStore.lua</source>
-        <source file="../../gf_scripts/gf_MorphMatrix/UI/TrackFXMatrixUI.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e/gf_scripts/gf_MorphMatrix/UI/TrackFXMatrixUI.lua</source>
+        <source main="main" file="../../gf_scripts/gf_MorphMatrix/gf_MorphMatrix-TrackFX.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e464b54dcc6c246d2a094e41920878502f/gf_scripts/gf_MorphMatrix/gf_MorphMatrix-TrackFX.lua</source>
+        <source file="../../gf_scripts/gf_MorphMatrix/Adapters/TrackFXAdapter.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e464b54dcc6c246d2a094e41920878502f/gf_scripts/gf_MorphMatrix/Adapters/TrackFXAdapter.lua</source>
+        <source file="../../gf_scripts/gf_MorphMatrix/Core/TrackFXJsonCodec.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e464b54dcc6c246d2a094e41920878502f/gf_scripts/gf_MorphMatrix/Core/TrackFXJsonCodec.lua</source>
+        <source file="../../gf_scripts/gf_MorphMatrix/Core/TrackFXMatrixController.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e464b54dcc6c246d2a094e41920878502f/gf_scripts/gf_MorphMatrix/Core/TrackFXMatrixController.lua</source>
+        <source file="../../gf_scripts/gf_MorphMatrix/Core/TrackFXMatrixEngine.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e464b54dcc6c246d2a094e41920878502f/gf_scripts/gf_MorphMatrix/Core/TrackFXMatrixEngine.lua</source>
+        <source file="../../gf_scripts/gf_MorphMatrix/Core/TrackFXMatrixPreset.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e464b54dcc6c246d2a094e41920878502f/gf_scripts/gf_MorphMatrix/Core/TrackFXMatrixPreset.lua</source>
+        <source file="../../gf_scripts/gf_MorphMatrix/Core/TrackFXMatrixRuntime.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e464b54dcc6c246d2a094e41920878502f/gf_scripts/gf_MorphMatrix/Core/TrackFXMatrixRuntime.lua</source>
+        <source file="../../gf_scripts/gf_MorphMatrix/Core/TrackFXMatrixSnapshot.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e464b54dcc6c246d2a094e41920878502f/gf_scripts/gf_MorphMatrix/Core/TrackFXMatrixSnapshot.lua</source>
+        <source file="../../gf_scripts/gf_MorphMatrix/Core/TrackFXPluginIdentity.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e464b54dcc6c246d2a094e41920878502f/gf_scripts/gf_MorphMatrix/Core/TrackFXPluginIdentity.lua</source>
+        <source file="../../gf_scripts/gf_MorphMatrix/Persistence/TrackFXPresetFile.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e464b54dcc6c246d2a094e41920878502f/gf_scripts/gf_MorphMatrix/Persistence/TrackFXPresetFile.lua</source>
+        <source file="../../gf_scripts/gf_MorphMatrix/Persistence/TrackFXProjectStore.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e464b54dcc6c246d2a094e41920878502f/gf_scripts/gf_MorphMatrix/Persistence/TrackFXProjectStore.lua</source>
+        <source file="../../gf_scripts/gf_MorphMatrix/UI/TrackFXMatrixUI.lua">https://raw.githubusercontent.com/g-frega/ReaScript/0ade70e464b54dcc6c246d2a094e41920878502f/gf_scripts/gf_MorphMatrix/UI/TrackFXMatrixUI.lua</source>
       </version>
     </reapack>
   </category>
