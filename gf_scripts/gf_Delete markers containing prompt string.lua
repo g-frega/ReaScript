@@ -1,5 +1,5 @@
 -- @description Delete markers/regions by name with filter options
--- @version 1.1.0
+-- @version 1.1.1
 -- @author gf
 -- @about
 --   Prompts for a text fragment and options, then finds matching markers/regions

@@ -1,5 +1,5 @@
 -- @description Move project markers to the next transient in a selected item
--- @version 1.0.0
+-- @version 1.0.1
 -- @author Giacomo Frega
 -- @about
 --   Moves markers inside the selected item using REAPER's transient detection.

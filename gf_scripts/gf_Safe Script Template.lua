@@ -1,5 +1,5 @@
 -- @description Safe script template
--- @version 1.0.0
+-- @version 1.0.1
 -- @author Giacomo Frega
 -- @about
 --   Starter template for REAPER Lua scripts.

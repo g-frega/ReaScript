@@ -1,5 +1,5 @@
 -- @description Toggle mute for selected tracks or items
--- @version 1.0.0
+-- @version 1.0.1
 -- @author Giacomo Frega
 -- @about
 --   Toggles selected items when any are selected; otherwise toggles selected tracks.

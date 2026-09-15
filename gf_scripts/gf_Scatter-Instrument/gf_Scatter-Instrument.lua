@@ -1,6 +1,6 @@
 -- @description Scatter Instrument for REAPER (FMOD-style Scatterer)
 -- @author gf
--- @version 1.0.0
+-- @version 1.0.1
 -- @about
 --   Replicates FMOD's Scatterer Instrument in REAPER.
 --   Tags a multi-take item as a scatter container. During playback, spawns

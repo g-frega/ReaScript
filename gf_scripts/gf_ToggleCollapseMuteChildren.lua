@@ -1,5 +1,5 @@
 -- @description Toggle parent collapse state and mute its child tracks
--- @version 1.0.0
+-- @version 1.0.1
 -- @author Giacomo Frega
 -- @about
 --   Collapses or expands the selected parent track and toggles its child-track mute state.

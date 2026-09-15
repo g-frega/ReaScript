@@ -1,5 +1,5 @@
 -- @description Move the edit cursor backward by 0.1 seconds
--- @version 1.0.0
+-- @version 1.0.1
 -- @author Giacomo Frega
 -- @about
 --   Moves the REAPER edit cursor backward by one tenth of a second.

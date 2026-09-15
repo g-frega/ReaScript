@@ -1,5 +1,5 @@
 -- @description Import files into tracks grouped by their four-digit filename prefix
--- @version 1.0.0
+-- @version 1.0.1
 -- @author Giacomo Frega
 -- @about
 --   Prompts for a folder, imports its files, and creates one track per filename prefix.

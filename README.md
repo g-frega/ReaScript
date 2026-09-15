@@ -14,6 +14,8 @@ Personal REAPER scripts by Giacomo Frega, packaged for installation with [ReaPac
 
 Packages install below `Scripts/gf_scripts/` so they match the development layout used in the REAPER workspace.
 
+The index uses ReaPack's supported `../../gf_scripts/...` destination paths. ReaPack resolves script package paths relative to `Scripts/<repository>/<category>`, so this traversal intentionally lands in the default `Scripts/gf_scripts/` folder rather than `Scripts/ReaScript/<category>/gf_scripts/`.
+
 ## Dependencies
 
 - `gf_MorphMatrix-TrackFX.lua` requires the [ReaImGui](https://github.com/cfillion/reaimgui) extension version 0.10.0.5 or newer.
@@ -39,6 +41,8 @@ The source/development folder remains at `C:\REAPER\Scripts\gf_scripts`. This re
 4. Add a concise changelog entry to the corresponding `<version>` element.
 5. Validate the XML and run the applicable REAPER tests before committing and pushing.
 6. Keep the raw `index.xml` URL stable; ReaPack will discover later versions after synchronization.
+
+Version `1.0.1` (or `1.1.1` for the marker utility) is a packaging migration release. Synchronizing packages should move older installs out of `Scripts/ReaScript/<category>/` and into `Scripts/gf_scripts/`.
 
 Packaging-only changes do not change runtime behavior. The first public release intentionally excludes the MCP bridge, tests, user presets, caches, and scripts derived from third-party repositories until their distribution and dependency terms are reviewed.
 

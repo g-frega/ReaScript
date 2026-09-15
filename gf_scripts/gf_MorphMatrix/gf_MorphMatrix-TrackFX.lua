@@ -1,5 +1,5 @@
 -- @description Morph Matrix - Track FX
--- @version 1.0.0
+-- @version 1.0.1
 -- @author Giacomo Frega
 -- @about
 --   Explicitly register a focused Track FX, map parameters, and morph four Matrix corners.
