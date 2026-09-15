@@ -25,6 +25,7 @@ gf_RemoveSilenceSelectedItems(-40db).lua
 gf_Rename selected tracks with counter for child tracks and uppercase for parent tracks.lua
 gf_MorphMatrix/Tests/
 gf_MorphMatrix/User Presets/
+gf_MorphMatrix/README.md
 
 # AI assistants, agent configuration, and generated context
 .ai/
